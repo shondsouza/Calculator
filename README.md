@@ -25,4 +25,3 @@ Simply clone this repository and open the `index.html` file in your browser.
 ```bash
 git clone https://github.com/shondsouza/calculator-app.git
 ```
-Feel free to adjust the content as needed!
