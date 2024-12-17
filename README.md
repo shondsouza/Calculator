@@ -23,12 +23,6 @@ A simple, responsive calculator web app built using HTML, CSS, and JavaScript. I
 Simply clone this repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/shondsouza/calculator-app.git
 ```
-
-## License:
-This project is open-source and available under the MIT License.
-
----
-
 Feel free to adjust the content as needed!
